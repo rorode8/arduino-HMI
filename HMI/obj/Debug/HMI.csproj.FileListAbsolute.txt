@@ -1,0 +1,10 @@
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\bin\Debug\HMI.exe.config
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\bin\Debug\HMI.exe
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\bin\Debug\HMI.pdb
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.csprojAssemblyReference.cache
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.Properties.Resources.resources
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.csproj.GenerateResource.cache
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.csproj.CoreCompileInputs.cache
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.exe
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.pdb
+F:\6to Semestre\Mecatronica\lab\proyecto 6\HMI\obj\Debug\HMI.Form1.resources
